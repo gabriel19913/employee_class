@@ -1,0 +1,2 @@
+# Test Employee class
+That is another project based in a exercise form the Python Crash Course (11.3). In this project, two tests are made to verify if a specific method from the class works with a default and custom value.
